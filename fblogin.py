@@ -1,10 +1,5 @@
 #!/usr/bin/python
-import unittest
-from selenium.webdriver.firefox.firefox_binary import FirefoxBinary
 from selenium import webdriver
-from selenium.webdriver.common.keys import Keys
-#import os
-#import webbrowser 
 from getpass import getpass
 
 #input email and password
